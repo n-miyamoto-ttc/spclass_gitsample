@@ -1,0 +1,13 @@
+{
+  "name": "ss_spe_class",
+  "private": true,
+  "dependencies": {
+    "pug": "",
+    "gulp": "",
+    "gulp-cli": "",
+    "gulp-pug": ""
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
